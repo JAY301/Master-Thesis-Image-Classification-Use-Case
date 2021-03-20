@@ -1,18 +1,7 @@
 # -*- coding: utf-8 -*-
 """
-Created on Wed Jan  9 13:19:17 2019
-
-@author: vaswani.m (version 1)
-@Updated: jayatilake.s (version 2)
-    Update Remarks:
-        user interface to enter the name of the file
-        appends path automatically
-       
-        
-
 This script prepares the data.csv which is obtained from the OBIEE customer complaints DB
 into a file type readable by Data Labelling Tool
-
 """
 import sys
 import pandas as pd
