@@ -1,11 +1,6 @@
 # -*- coding: utf-8 -*-
 """
-Created on Tue Oct 15 08:36:07 2019
-
-@author: jayatilake.s
-
 this takes MAP_gcrCodes_images and outputs the relavent GCR code once the image name is inputted 
-
 """
 
 import pandas as pd
