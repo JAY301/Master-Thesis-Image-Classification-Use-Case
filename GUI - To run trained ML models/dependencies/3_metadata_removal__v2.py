@@ -1,13 +1,5 @@
 # -*- coding: utf-8 -*-
 """
-Created on 01_05_2019
-
-@author: jayatilake.s (version 1) 
-
-purpose: automatically remove meta data from any sorted image before
-being uploaded to aws or azure or feeding to the network.
-
-** run this inside the images or sorted_images directory
 """
 import os
 import os.path
