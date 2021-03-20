@@ -1,11 +1,4 @@
 # -*- coding: utf-8 -*-
-"""
-Created on Tue Dec  4 10:41:10 2018
-
-
-
-@version edit:jayatilake.s (june 13)
-"""
 
 #required liabraries
 import urllib.request
