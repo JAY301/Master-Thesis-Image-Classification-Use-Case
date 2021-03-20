@@ -62,3 +62,10 @@ Implemented data-based distributed ML model (CNN) training on asynchronous multi
         └── stage_II_optimization_additional_classes.db
 ```
 
+### GUI to download consumer complaint images
+
+![image](https://user-images.githubusercontent.com/45121451/111883609-bb0d4c80-89bc-11eb-8733-581f7178713d.png)
+
+### GUI to classify consumer complaint images using trained ML models
+
+![image](https://user-images.githubusercontent.com/45121451/111883627-ca8c9580-89bc-11eb-9ace-45cec8650f77.png)
