@@ -1,13 +1,7 @@
 # -*- coding: utf-8 -*-
 """
-Created on Tue Oct 29 09:45:40 2019
-
-@author: jayatilake.s
-
-karin's request:
-	1. make another column/s as predicted failure mode,no of each FET;BET;TT;Other
-		in obiee report as to what it the predicted failure mode?
-	2. make a matrix as per in the email.
+1. make another column/s as predicted failure mode,no of each FET;BET;TT;Other in obiee report as to what it the predicted failure mode?
+2. make a matrix as per in the email.
 """
 
 import pandas as pd
