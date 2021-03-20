@@ -1,4 +1,4 @@
-# Master-Thesis-Image-Classification-Use-Case
+# Master Thesis (Image Classification using CNNs + GUI Application)
 Master Thesis (Deep Learning)
 
 ### Product Defect Identifier: 
