@@ -64,8 +64,8 @@ Implemented data-based distributed ML model (CNN) training on asynchronous multi
 
 ### GUI to download consumer complaint images
 
-![image](https://user-images.githubusercontent.com/45121451/111883609-bb0d4c80-89bc-11eb-8733-581f7178713d.png)
+guip.png![image](https://user-images.githubusercontent.com/45121451/111883813-dd539a00-89bd-11eb-84c6-a44d0a956643.png)
 
 ### GUI to classify consumer complaint images using trained ML models
 
-![image](https://user-images.githubusercontent.com/45121451/111883627-ca8c9580-89bc-11eb-9ace-45cec8650f77.png)
+![image](https://user-images.githubusercontent.com/45121451/111883799-d2006e80-89bd-11eb-928a-1eb104d02f51.png)
