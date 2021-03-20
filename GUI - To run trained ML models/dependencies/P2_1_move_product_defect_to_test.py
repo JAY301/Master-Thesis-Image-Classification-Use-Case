@@ -1,11 +1,5 @@
 # -*- coding: utf-8 -*-
 """
-Created on Mon Oct 14 00:24:31 2019
-author:jayatilake.s
-
-move all Product defect images to test folder in tensorflow env.
-this script ONLY works in makerspace computer...
-
 """
 import shutil
 import os
