@@ -25,7 +25,6 @@ Implemented data-based distributed ML model (CNN) training on asynchronous multi
     │       ├── P2_6_getGCR_from_image.py
     │       ├── P2_7_Comparison_scirpt with Obiee original report.py
     │       ├── PySimpleGUI.py
-    │       ├── Sorting_algo.py
     │       ├── Stage_IIA_Model_Inference.py
     │       ├── Stage_IIB_Model_Inference.py
     │       ├── Stage_I_Model_Inference.py
