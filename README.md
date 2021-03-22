@@ -1,5 +1,4 @@
-# Master Thesis (Image Classification using CNNs + GUI Application)
-Master Thesis (Deep Learning)
+# Automatic Complaint Classifier (Image Classification using CNNs + GUI Application)
 
 ### Product Defect Identifier: 
 Built an end-to-end ML solution to identify product defects from consumer complaint images. The created pipeline for customer feedback system saved 1200 Man-Hours annually.
