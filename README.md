@@ -1,11 +1,11 @@
 # Automatic Complaint Classifier (Image Classification using CNNs + GUI Application)
 
 ### Product Defect Identifier: 
-Built an end-to-end ML solution to identify product defects from consumer complaint images. The created pipeline for customer feedback system saved 1200 Man-Hours annually.
+An end-to-end ML solution to identify product defects from consumer complaint images. The created pipeline for customer feedback system saved 1200 Man-Hours annually.
 ### Automated Hyperparameter Optimization: 
-Created a scalable solution for rapid development of image classifiers for multiple business use cases, further improving ML model accuracy by 4% after manual optimization.
+A scalable solution for rapid development of image classifiers for multiple business use cases, further improving ML model accuracy by 4% after manual optimization.
 ### Distributed ML Training: 
-Implemented data-based distributed ML model (CNN) training on asynchronous multi-GPU environment, making the training process 10x faster.
+Data-based distributed ML model (CNN) training on asynchronous multi-GPU environment, making the training process 10x faster.
 
 
 ```bash
